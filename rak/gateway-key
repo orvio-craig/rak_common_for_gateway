@@ -1,0 +1,9 @@
+#!/bin/bash
+
+SCRIPT_COMMON_FILE=/usr/local/rak/shell_script/rak_common.sh
+
+source $SCRIPT_COMMON_FILE
+
+GW_ID=`do_get_gw_id_from_json`
+
+echo "Gateway Key: $GW_ID"

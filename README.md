@@ -128,3 +128,11 @@ step5 : Wait a moment and the installation is complete.
 
 step6 : For more other features, please use "sudo gateway-config".
 
+##	Quick Commands
+
+After installation, you can use the following commands:
+
+* `gateway-config` - Configure gateway settings
+* `gateway-version` - Display gateway version and information
+* `gateway-key` - Display your gateway key/ID
+
